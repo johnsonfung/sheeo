@@ -7,3 +7,8 @@ Author: Studio Lake
 Author URI: 
 Tags: 
 */
+
+
+body.home header .hero h2 {
+	font-size:12px;
+}
